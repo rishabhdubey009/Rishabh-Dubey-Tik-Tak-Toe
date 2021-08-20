@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Rishabh-Dubey-Tik-Tak-Toe/static/css/main.44576eea.chunk.css",
+    "main.js": "/Rishabh-Dubey-Tik-Tak-Toe/static/js/main.aa62895c.chunk.js",
+    "main.js.map": "/Rishabh-Dubey-Tik-Tak-Toe/static/js/main.aa62895c.chunk.js.map",
+    "runtime-main.js": "/Rishabh-Dubey-Tik-Tak-Toe/static/js/runtime-main.c55a6e25.js",
+    "runtime-main.js.map": "/Rishabh-Dubey-Tik-Tak-Toe/static/js/runtime-main.c55a6e25.js.map",
+    "static/js/2.ea69cc7d.chunk.js": "/Rishabh-Dubey-Tik-Tak-Toe/static/js/2.ea69cc7d.chunk.js",
+    "static/js/2.ea69cc7d.chunk.js.map": "/Rishabh-Dubey-Tik-Tak-Toe/static/js/2.ea69cc7d.chunk.js.map",
+    "index.html": "/Rishabh-Dubey-Tik-Tak-Toe/index.html",
+    "precache-manifest.f4bc4afc59a1a359e515802abb0416a7.js": "/Rishabh-Dubey-Tik-Tak-Toe/precache-manifest.f4bc4afc59a1a359e515802abb0416a7.js",
+    "service-worker.js": "/Rishabh-Dubey-Tik-Tak-Toe/service-worker.js",
+    "static/css/main.44576eea.chunk.css.map": "/Rishabh-Dubey-Tik-Tak-Toe/static/css/main.44576eea.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c55a6e25.js",
+    "static/js/2.ea69cc7d.chunk.js",
+    "static/css/main.44576eea.chunk.css",
+    "static/js/main.aa62895c.chunk.js"
+  ]
+}
